@@ -129,7 +129,9 @@ main{
 main p{
   text-align:center;
   font-size:1.5rem;
-  padding-top:5rem;
+  padding-top:8rem;
+  font-family:'Josefin Sans';
+  letter-spacing: 10px;
 }
 
 /* ==========================================================================
