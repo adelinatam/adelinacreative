@@ -103,28 +103,11 @@ textarea {
 header{
   background-color:#F6F1Eb;
   width:100%;
-  height:18rem;
-}
-
-.intro{
-  margin:0 auto;
-  max-width:1200px;
-  padding-top:2.5rem;
-  text-align:center;
-}
-
-.intro h1{
-  font-family:'Meddon';
-}
-
-.intro h3{
-  font-family:'Josefin Sans';
-  letter-spacing: 10px;
 }
 
 svg{
   padding-top:1rem;
-  width:25px;
+  width:50px;
 }
 
 main{
@@ -158,7 +141,7 @@ main img{
 .nav li{
   list-style-type: none;
   display:inline-block;
-  margin-right:40px;
+  padding-right:2rem;
   padding-top:2rem;
 }
 
@@ -234,15 +217,23 @@ main img{
 
 .creative{
   text-align:center;
-  margin-top:8rem;
+  margin-top:3rem;
 }
 
 .creative h1{
-  font-size:3.5rem;
+  font-size:2rem;
+  font-family:'Meddon';
+  margin-top:3rem;
+}
+
+.creative h2{
+  font-size:4rem;
+  margin-top:4.5rem;
 }
 
 .creative p{
   font-style:italic;
+  font-size:1.5rem;
 }
 
 .creative button{
