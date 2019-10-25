@@ -363,8 +363,14 @@ main img{
     display:block;
     padding:0.5rem;
   }
-  .creative{
-    margin-top:12rem;
+  header{
+    margin-bottom:100px;
+  }
+  .portfolio,
+  .project,
+  .about{
+    display:grid;
+    grid-template-columns:100%;
   }
 }
 
