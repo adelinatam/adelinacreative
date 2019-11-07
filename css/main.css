@@ -234,19 +234,19 @@ main img{
 .creative p{
   font-style:italic;
   font-size:1.5rem;
+  margin-bottom:30px;
 }
 
-.creative button{
+.button{
   border:none;
   background-color: #F6F1Eb;
   border-radius: 25px;
   padding:10px 20px;
   outline:none;
-  margin:5rem 0;
   font-weight:bold;
 }
 
-.creative button:hover{
+.button:hover{
   border:none;
   background-color:#cb7431;
   outline:none;
@@ -316,6 +316,10 @@ main img{
 
 .about p{
   padding-bottom:1rem;
+}
+
+.bio{
+  padding-left:1rem;
 }
 
 /*FEATURE PAGE*/
