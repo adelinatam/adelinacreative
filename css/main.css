@@ -389,6 +389,10 @@ form{
   border:1px solid #F6F1Eb;
 }
 
+.is-invalid{
+  border:1px solid #FDAB9F;
+}
+
 /*MEDIA QUERIES*/
 
 @media only screen and (max-width:615px){

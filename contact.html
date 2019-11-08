@@ -54,16 +54,16 @@
 
     <form id="contact-form" class="live-validation required-validation validation" id="live-validation" netlify>
     	<div class="form-group">
-    		<label for="name">Full Name<input class="name" type="text" id="name" data-validation-rqmessage="*Please insert name" data-validation-type="letters" required></label>
+    		<label for="name">Full Name<input class="name" type="text" id="name" placeholder="Enter name" data-validation-rqmessage="*Please insert name" data-validation-type="letters" required></label>
     	</div>
 
     	<div class="form-group">
-    		<label for="email">Email Address<input class="email" type="email" id="email" data-validation-rqmessage="*Please insert email address" required /></label>
+    		<label for="email">Email Address<input class="email" type="email" id="email" placeholder="name@example.com" data-validation-rqmessage="*Please insert email address" required /></label>
     	</div>
     
 	    <div class="form-group">
 	    	<label for="message" id="message" data-validation-rqmessage="">Message</label>
-			<textarea class="textbox" name="message" data-validation-rqmessage="*Please input a message" required></textarea>
+			<textarea class="textbox" name="message" placeholder="Type your message here" data-validation-rqmessage="*Please input a message" required></textarea>
 	    </div>
 	</form>
 	<button class="send-button" type="submit">SEND</button>
