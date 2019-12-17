@@ -215,6 +215,10 @@ main img{
   border:1px solid #F6F1Eb;
 }
 
+.last-img{
+  padding-bottom:10rem;
+}
+
 .creative{
   text-align:center;
   margin-top:3rem;
@@ -411,6 +415,9 @@ form{
   .about{
     display:grid;
     grid-template-columns:100%;
+  }
+  .creative{
+    margin-bottom:300px;
   }
 }
 
