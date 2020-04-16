@@ -230,21 +230,30 @@ main img{
 }
 
 .creative h1{
-  font-size:2rem;
+  font-size:2.5rem;
   font-family:'Meddon';
   margin-top:3rem;
   color:#172a35;
 }
 
 .creative h2{
-  font-size:4rem;
+  font-size:2rem;
+}
+
+.mission{
   margin-top:4.5rem;
+}
+
+.why{
+  font-size:2.5rem;
+  color:#cb7431;
 }
 
 .creative p{
   font-style:italic;
   font-size:1.5rem;
   margin-bottom:30px;
+  margin-top:40px;
 }
 
 .button{
