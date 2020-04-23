@@ -267,7 +267,8 @@ main img{
 
 .button:hover{
   border:none;
-  background-color:#FFF;
+  background-color:#172a35;
+  color:#F6F1Eb;
   outline:none;
 }
 
