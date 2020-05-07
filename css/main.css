@@ -241,7 +241,7 @@ main img{
 }
 
 .mission{
-  margin-top:4.5rem;
+  margin-top:3.5rem;
 }
 
 .why{
@@ -396,8 +396,6 @@ main img{
   font-family:'Meddon';
   font-size:36px;
   color:#cb7431;
-  word-wrap: break-word;
-  width:50%;
 }
 
 .contact h3{
@@ -447,13 +445,13 @@ main img{
     font-size:1.5rem;
   }
   .creative h2{
-    font-size:1rem;
+    font-size:1.3rem;
   }
   .creative p{
     font-size:1rem;
   }
   .mission{
-    margin-top:4.5rem;
+    margin-top:3.5rem;
   }
   .why{
     font-size:1.5rem;
