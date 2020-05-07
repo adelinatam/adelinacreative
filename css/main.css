@@ -396,6 +396,8 @@ main img{
   font-family:'Meddon';
   font-size:36px;
   color:#cb7431;
+  word-wrap: break-word;
+  width:50%;
 }
 
 .contact h3{
